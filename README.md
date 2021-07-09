@@ -1,10 +1,8 @@
 # ryanwclark/mariadb-backup
 
-[![Build Status](https://img.shields.io/docker/buildryanwclark/mariadb-backup.svg)](https://hub.docker.com/ryanwclark/mariadb-backup)
-[![Docker Pulls](https://img.shields.io/docker/pullsryanwclark/mariadb-backup.svg)](https://hub.docker.com/ryanwclark/mariadb-backup)
-[![Docker Stars](https://img.shields.io/docker/starsryanwclark/mariadb-backup.svg)](https://hub.docker.com/ryanwclark/mariadb-backup)
-[![Docker Layers](https://images.microbadger.com/badges/imageryanwclark/mariadb-backup.svg)](https://microbadger.com/imagesryanwclark/mariadb-backup)
-[![Image Size](https://img.shields.io/microbadger/image-sizeryanwclark/mariadb-backup.svg)](https://microbadger.com/imagesryanwclark/mariadb-backup)
+[![Build Status](https://img.shields.io/docker/build/ryanwclark/mariadb-backup.svg)](https://hub.docker.com/ryanwclark/mariadb-backup)
+[![Docker Pulls](https://img.shields.io/docker/pulls/ryanwclark/mariadb-backup.svg)](https://hub.docker.com/ryanwclark/mariadb-backup)
+[![Docker Stars](https://img.shields.io/docker/stars/ryanwclark/mariadb-backup.svg)](https://hub.docker.com/ryanwclark/mariadb-backup)
 
 # Introduction
 
